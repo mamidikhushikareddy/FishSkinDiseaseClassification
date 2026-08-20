@@ -1,3 +1,5 @@
+<div align="center">
+
 # Fish Skin Disease Classification
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -10,6 +12,9 @@ A deep-learning based image classification system for identifying **fish skin di
 
 Unlike projects that rely entirely on existing benchmark datasets, this project involved building and annotating a dataset specifically for the fish skin disease classification problem. The trained model achieved approximately **95% classification accuracy**, demonstrating performance comparable to benchmark datasets used for similar image-classification tasks.
 
+</div>
+
+---
 ---
 
 ## Table of Contents
