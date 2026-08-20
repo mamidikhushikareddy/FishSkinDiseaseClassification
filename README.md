@@ -15,7 +15,6 @@ Unlike projects that rely entirely on existing benchmark datasets, this project 
 </div>
 
 ---
----
 
 ## Table of Contents
 
